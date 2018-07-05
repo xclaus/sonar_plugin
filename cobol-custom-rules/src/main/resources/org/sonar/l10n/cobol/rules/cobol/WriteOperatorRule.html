@@ -1,0 +1,11 @@
+<p>No debe usar la instrucción EXEC CICS WRITE OPERATOR, para solicitar ejecución de procesos BATCH. </p>
+<h2>Noncompliant Code Example</h2>
+<pre>
+HANDLE CONDITION e IGNORE CONDITION 
+</pre>
+<h2>Compliant Solution</h2>
+<pre>
+Debe eliminar la sentencia EXEC CICS WRITE OPERATOR del codigo.
+
+&copy; Carlos Mella
+</pre>

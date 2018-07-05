@@ -1,0 +1,6 @@
+projectKey=test-java
+serverUrl=http://52.88.99.52:9004
+serverVersion=6.7.1.35068
+dashboardUrl=http://52.88.99.52:9004/dashboard/index/test-java
+ceTaskId=AWRsIwZ0NTLeUrkj7-la
+ceTaskUrl=http://52.88.99.52:9004/api/ce/task?id=AWRsIwZ0NTLeUrkj7-la
