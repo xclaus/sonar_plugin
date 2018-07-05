@@ -1,6 +1,7 @@
 projectKey=test-java
 serverUrl=http://52.88.99.52:9004
 serverVersion=6.7.1.35068
+branch=release-prueba
 dashboardUrl=http://52.88.99.52:9004/dashboard/index/test-java
-ceTaskId=AWRsOEYANTLeUrkj7-lo
-ceTaskUrl=http://52.88.99.52:9004/api/ce/task?id=AWRsOEYANTLeUrkj7-lo
+ceTaskId=AWRsiL1JNTLeUrkj7-ly
+ceTaskUrl=http://52.88.99.52:9004/api/ce/task?id=AWRsiL1JNTLeUrkj7-ly
